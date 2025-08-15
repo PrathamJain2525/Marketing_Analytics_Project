@@ -1,22 +1,132 @@
-END TO END - MARKETING ANALYTICS PROJECT
-Marketing Analytics For E-Commerce Market Place Company
 
-Business Problem - Client( leading E-Commerce company) want to take data driven decision about business and understand customer, seller behaviors, product behavior and channel behavior etc... which help him in measuring, managing and analysing performance of business.
 
-I got multiple datasets related to transactions, orders, payment, locations, customers, sellers, product and it's categories. After data cleansing what I've done:-
+# **End-to-End Marketing Analytics Project**
 
-Perform detailed exploratory analysis ( high level metrics, new customers acquired & customer retention every month, top performing products and categories ).
-Understand the trends/seasonality ( sales, quantity by category, month, week, day, time etc. )
-Performing Customers/sellers Segmentation.
-Cross-Selling (Which products are selling together)
-Understand payment behaviour
-Understand customer satisfaction towards category & products
-🛠 Skills
-Data Manipulation · Matplotlib · Seaborn · EDA · pandas · NumPy · Python
+**Marketing Analytics for an E-Commerce Marketplace Company**
 
-🚀 About Me
-I'm an aspiring Data Analyst with a strong foundation in data manipulation and statistical analysis. I thrive on uncovering insights that drive decisions and am passionate about learning.
+---
 
-As a Data Analyst, I specialize in transforming raw data into clear, impactful insights using Python, SQL, and visualization tools like Matplotlib and Power BI. My educational background includes a Post Graduate Diploma in Business Administration in Finance, and I'm currently pursuing a Data Science program at AnalytixLabs.
+## 📌 **Business Problem**
 
-My technical skills encompass Python, SQL, Statsmodel, and various statistical techniques, with a focus on machine learning libraries like Scikit-Learn and TensorFlow. I'm dedicated to turning data into compelling stories that influence business outcomes.
+A leading e-commerce company wants to make **data-driven decisions** to better understand:
+
+* Customer behavior
+* Seller behavior
+* Product performance
+* Channel effectiveness
+
+The goal is to measure, manage, and analyze **business performance** effectively.
+
+---
+
+## 📂 **Datasets Used**
+
+The project utilizes multiple datasets related to:
+
+* Transactions
+* Orders
+* Payments
+* Locations
+* Customers
+* Sellers
+* Products & Categories
+
+---
+
+## 🔍 **Steps & Analysis Performed**
+
+After **data cleaning & preparation**, the following analyses were carried out:
+
+1. **Detailed Exploratory Data Analysis (EDA)**
+
+   * High-level business metrics
+   * Monthly new customer acquisition & retention
+   * Top-performing products and categories
+
+2. **Trend & Seasonality Analysis**
+
+   * Sales trends by month, week, day, and time
+   * Quantity sold by category over time
+
+3. **Segmentation**
+
+   * Customer segmentation
+   * Seller segmentation
+
+4. **Cross-Selling Analysis**
+
+   * Identifying products frequently bought together
+
+5. **Payment Behavior Analysis**
+
+   * Understanding payment methods and trends
+
+6. **Customer Satisfaction Analysis**
+
+   * Ratings and reviews by category & product
+
+---
+
+## 📊 **Key Insights**
+
+* **Customer Retention** trends over time
+* **Seasonality patterns** in sales and orders
+* **High-value product categories** driving revenue
+* **Cross-selling opportunities** for bundled promotions
+* **Payment method preferences** among customers
+* **Customer sentiment & satisfaction** insights
+
+---
+
+## 🛠 **Skills & Tools Used**
+
+* **Data Manipulation:** `pandas`, `NumPy`
+* **Data Visualization:** `Matplotlib`, `Seaborn`
+* **Exploratory Data Analysis (EDA)**
+* **Statistical Analysis**
+* **Python Programming**
+* **Segmentation Techniques**
+
+---
+
+## 🚀 **About Me**
+
+I am an **aspiring Data Analyst** with a strong foundation in **data manipulation** and **statistical analysis**. I thrive on uncovering insights that drive impactful business decisions and am passionate about continuous learning.
+
+**Expertise:**
+
+* Transforming raw data into actionable insights using Python & SQL
+* Visual storytelling with Matplotlib, Seaborn, and Power BI
+* Building analytical models and applying machine learning techniques
+
+**Background:**
+
+* **Post Graduate Diploma in Business Administration** (Finance)
+* **Data Science Program** at AnalytixLabs
+
+**Technical Skills:**
+
+* Python, SQL, Statsmodels
+* Machine Learning (`Scikit-Learn`, `TensorFlow`)
+* Statistical Techniques & Data Storytelling
+
+---
+
+## 📈 **Project Structure**
+
+```
+📁 datasets/
+    ├── CUSTOMERS.csv
+    ├── GEO_LOCATION.csv
+    ├── ORDERS.csv
+    ├── ORDER_ITEMS.csv
+    ├── ORDER_PAYMENTS.csv
+    ├── ORDER_REVIEW_RATINGS.csv
+    ├── PRODUCTS.csv
+    ├── SELLERS.csv
+
+📄 End-to-End Project - Marketing Analytics (Python).ipynb
+📄 README.md
+```
+
+
